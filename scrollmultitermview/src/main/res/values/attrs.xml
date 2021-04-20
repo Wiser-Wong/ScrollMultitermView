@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollMultitermView">
+        <attr name="smv_isTopFadingEdgeEnabled" format="boolean"/>
+        <attr name="smv_isBottomFadingEdgeEnabled" format="boolean"/>
+        <attr name="smv_scrollIntervalDuration" format="integer"/>
+        <attr name="smv_initDelayDuration" format="integer"/>
+        <attr name="smv_firstTimeScrollToPosition" format="integer"/>
+        <attr name="smv_fadingEdgeLength" format="integer"/>
+    </declare-styleable>
+</resources>
